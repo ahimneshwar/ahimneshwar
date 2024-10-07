@@ -12,6 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahimneshwar" alt="ahimneshwar" /></a> </p>
 
+[![ahimneshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahimneshwar)]
 [ahimneshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahimneshwar)
 [ahimneshwar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ahimneshwar&show_icons=true&locale=en&layout=compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahimneshwar&show_icons=true&locale=en&layout=compact" alt="ahimneshwar" /></p>
