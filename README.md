@@ -1,9 +1,11 @@
 <h2 align="center">Hi there 👋</h2>
-<h3 align="center">I am Ayush</h3>
-<h3 align="center">A Senior Full Stack Dev</h3>
+<h2 align="center">I am Ayush</h2>
+<h2 align="center">A Senior Full Stack Dev</h2>
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 Reach me via email here **ahimneshwar@gmail.com**
+
 - 📫 Reach me via Linkedin here <a href="https://linkedin.com/in/ahimneshwar" target="blank">ahimneshwar</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahimneshwar&label=Profile%20views&color=0e75b6&style=flat" alt="ahimneshwar" /> </p>
