@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 Reach me via email here **ahimneshwar@gmail.com**
+- 📫 Email **ahimneshwar@gmail.com**
 
-- 📫 Reach me via Linkedin here <a href="https://linkedin.com/in/ahimneshwar" target="blank">ahimneshwar</a>
+- 📫 Linkedin <a href="https://linkedin.com/in/ahimneshwar" target="blank">ahimneshwar</a>
 
 **Connect with me:**
 
